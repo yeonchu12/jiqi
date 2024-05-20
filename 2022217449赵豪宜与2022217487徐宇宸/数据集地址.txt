@@ -1,0 +1,7 @@
+数据集地址：
+https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images/data
+
+如果无法下载，可用百度网盘下载：
+链接：https://pan.baidu.com/s/1ZuNLbBpzXw_TnV5RCHqLDA?pwd=1234 
+提取码：1234
+
